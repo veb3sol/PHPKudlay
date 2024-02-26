@@ -1,5 +1,5 @@
 
-<?php //phpinfo(); ?>
+<?php //phpinfo(); ?> //
 <!doctype html>
 <html lang="en">
 <head>
@@ -10,7 +10,7 @@
     <title>Document</title>
 </head>
 <body>
-<!--коментарий html-->
+<!--коментарий html  -  видно через просмотр кода-->
 <?= 'asa1';     // php echo заменить можно на =
 // однострочный коментарий -- ctrl /
 # коментарий в стиле юникс
