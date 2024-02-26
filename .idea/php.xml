@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../php/" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/thecodingmachine/safe" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/spomky-labs/cbor-php" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/spomky-labs/base64url" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/williamdes/mariadb-mysql-kbs" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/phpmyadmin/shapefile" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/phpmyadmin/sql-parser" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/phpmyadmin/motranslator" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/phpmyadmin/twig-i18n-extension" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/web-auth/metadata-service" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/web-auth/cose-lib" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/web-auth/webauthn-lib" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/pragmarx/google2fa-qrcode" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/code-lts/u2f-php-server" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/beberlei/assert" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/fgrosse/phpasn1" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/league/uri" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/league/uri-interfaces" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/slim/psr7" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/../../phpMyAdmin/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="66ebc62c-3d3c-43d4-b896-2660eb06fbf4" name="PHP" home="C:\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+  <component name="PhpInterpretersPhpInfoCache">
+    <phpInfoCache>
+      <interpreter name="PHP">
+        <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" version="8.2.4">
+          <additional_php_ini />
+          <configuration_file>C:\xampp\php\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value="C:\xampp\php\PEAR" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gettext" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_sqlite" />
+            <extension name="random" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+    </phpInfoCache>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/../../phpMyAdmin/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
