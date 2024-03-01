@@ -10,8 +10,11 @@ $str2 = "<p>Hello2</p>"; // обрабатываются переменные и
 
 echo "<p>Hello</p> \n";     // \n - управляющая последовательность - перевод строки
 echo "<p>Hello1</p>";
-echo PHP_EOL;               // перевод строки независимо от ОС
+echo PHP_EOL;               // перевод строки независимо от ОС - предопределенная константа
 echo "<p>Hello\\2</p>";     //   \\ - вывод экранированого слэша
+echo "<p>Hello \2</p>";     //   2 экранируется и не выводится
+echo "<p>Hell\o 2</p>";     //   выводится \ потому что о - это не спец символ
+// В ОДИНАРНЫХ КАВЫЧКАХ \ НЕ ОБРАБАТЫВАЕТСЯ А ПРОСТО ВЫВОДИТСЯ!!!
 
 // Heredoc -- что бы не заморачиваться с экранированием
 $str3 = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut et neque nesciunt provident quod repudiandae sed sint veniam? Error, illo!";
@@ -23,7 +26,7 @@ $my_name
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut et neque nesciunt
 Пример двойного слэша \\ и одного \ffjhkjh
 </div>
-HEREDOC;
+HEREDOC;  //перед закрывающим указателем не должно быть пробелов
 echo $str4;
 
 //  "HEREDOC" - в двойных кавычках или без кавычек  -- это типа строка в двойных кавычках
