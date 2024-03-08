@@ -20,5 +20,4 @@ if ($l == 'green'){
 } else {
     echo 'stop!';
 }
-
 ?>
