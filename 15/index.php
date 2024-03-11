@@ -11,6 +11,8 @@ while ($i < 10) {
     echo "$i <br>";
     $i++;
 }
+
+// печатаем таблицу
 echo '<table border="1" width="100%">';
 
 $tr = 1;
