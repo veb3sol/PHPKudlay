@@ -9,7 +9,6 @@ while ($g <= 2021) {
     $g++;
 }
 echo '</select>';
-
 echo '<br>';
 
 echo '<table border="1" width="100%">';
