@@ -50,4 +50,5 @@ foreach ($goods as &$gg){
     echo $gg['price']. '<br>';
 }
 
+
 ?>
