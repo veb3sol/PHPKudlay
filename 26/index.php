@@ -56,5 +56,4 @@ function tablica(int $stroki, int $stolbcy): void
 }
 
 tablica(6,6);
-
 ?>
