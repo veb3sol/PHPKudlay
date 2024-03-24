@@ -3,6 +3,7 @@
 // if, while, for, foreach, switch
 // вместо открывающей { используем :
 //вместо } используем endif, endwhile, endfor, endforeach, endswitch
+// перед case в switch не должно быть ничего - даже пробела
 ?>
 
 
