@@ -14,10 +14,13 @@ error_reporting(-1);
 //include __DIR__.'/funcs.php';     -- если надо указать полный путь к файлу
 //include 'funcs.php';  -- без скобок
 
+// редактор может не видеть переменной подключаемого файла. тогда поставить на нее курсор, alt+enter и выбрать AddPHPDoc
+
+
 //@include 'funcs2.php'; // - такого файла нету, @ - подавляет все предупреждения и ошибки даже при error_reporting(-1)
 
-//require_once 'data.php';
-//print_r($data);
+require_once 'data.php';
+print_r($data);
 
 require 'funcs.php';
 tablica(6,6);
