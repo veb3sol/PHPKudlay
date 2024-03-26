@@ -1,6 +1,10 @@
 <?php
 // 81 функция для работы с массивами
 
+function debug($data){
+    echo '<pre>'. print_r($data, 1).'</pre>';
+}
+
 // count - подсчитывает количество элементов массива или чего либо в обьекте
 // 1 аргумент - массив
 // 2 аргумент - по умолчанию COUNT_NORMAL, но может быть COUNT_RECURSIVE(или 1)
@@ -76,7 +80,7 @@ echo count($goods, 0); //3
 echo count($goods, 1); //12 -- 3 корневых + 9 (в каждом корневом по 3)
 
 echo '<hr>';
-print_r(array_count_values($nums)) ;
+debug(array_count_values($nums)) ;
 echo '<hr>';
 var_dump(array_key_exists('year1', $car)); // true
 // использовали var_dump потому что при print_r выводится строка и true => '1', false => ''
