@@ -44,6 +44,6 @@ for($i = $nach; $i <= $endik; $i++){
 }
 print_r($masik);
 echo '<hr>';
-print_r(range(1, 100, 1)) ;
+print_r(range(1, 100, 1)) ; // 3 аргумент - шаг
 
 ?>
