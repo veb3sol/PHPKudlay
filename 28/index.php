@@ -28,6 +28,7 @@ foreach ($nums as $num){
     echo "<p>$num</p>";
     echo "<h2>Конец</h2>";
 }
+
 ?>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, deserunt eaque, eius eveniet excepturi iste iusto
